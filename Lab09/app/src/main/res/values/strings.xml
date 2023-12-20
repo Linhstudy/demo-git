@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab09</string>
+    <string name="LabelApp">Đăng ký học phần</string>
+    <string name="InputCourseNam">Nhập vào tên học phần</string>
+    <string name="InputDuration">Nhập vào số tín chỉ</string>
+    <string name="InputTrackOfCourse">Nhập vào thời gian bắt đầu học</string>
+    <string name="InputDescription">Nhập vào thông tin bổ sung</string>
+    <string name="AddCourse">Thêm học phần</string>
+    <string name="ListOfCourse">Danh sách học phần đã đăng ký</string>
+</resources>
